@@ -1,0 +1,36 @@
+body{
+	color: ;
+	background-image: url();
+	background-color: silver;
+} 
+.social-buttons{
+	display: inline;
+}
+/*.bg1{
+	background:#000 ;*/
+}
+.bg2{
+	background:grey;}
+.bg4{
+	background:#000000 ;
+	color: aqua;
+}
+.container-fluid{
+	padding-top
+	background-image: url(img/1.jpg);
+}
+.nav a:hover{
+	color:yellow;
+	font-weight: bold;
+}
+.fab{
+	color: #fff;
+}
+.backpic{
+	background-image: url(../img/1.jpg);
+	background-size: cover;
+	height: 700px;
+}
+.gee{
+	padding-top: 7px;
+}
